@@ -1,0 +1,1266 @@
+{
+  "vaultName": "论文",
+  "lastExport": 1710905760027,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "每日想法/2024-03-05.md",
+    "每日想法/2024-03-06.md",
+    "每日想法/2024-03-09.md",
+    "attachment/5-あおい【青い】.jpg",
+    "attachment/309DD7DD.png",
+    "attachment/309E142A.png",
+    "attachment/日语的【被动、使役、使役被动】&【授受关系（部分）】PT16.26S.webp",
+    "attachment/日语的【被动、使役、使役被动】&【授受关系（部分）】PT16.26S 1.webp",
+    "attachment/日语的【被动、使役、使役被动】&【授受关系（部分）】PT25.774S.webp",
+    "attachment/日语的【被动、使役、使役被动】&【授受关系（部分）】PT36M51.946S.webp",
+    "attachment/同步助手 - 文档中心 - 简悦 SimpRead - 如杂志般沉浸式阅读体验的扩展.html",
+    "attachment/新日本语教程中级2第8课PT2M7.008S.webp",
+    "attachment/新日本语教程中级2第8课PT28.188S.webp",
+    "attachment/中国知网.html",
+    "attachment/Pasted image 20240101131638.png",
+    "attachment/Pasted image 20240101131823.png",
+    "attachment/Pasted image 20240101133505.png",
+    "attachment/Pasted image 20240101150906.png",
+    "attachment/Pasted image 20240104120506.png",
+    "attachment/Pasted image 20240131210611.png",
+    "attachment/Pasted image 20240131210628.png",
+    "notes/发行/发行是否一定需要有形载体.md",
+    "notes/发行/发行与信息网络传播的区别.md",
+    "notes/发行/索引.md",
+    "notes/文章汇总/simpread_config.json",
+    "notes/random thoughts/嵌入式网页版权保护.md",
+    "notes/random thoughts/知识产权是智力成果和才能的财产化.md",
+    "notes/random thoughts/中国人版权意识不强.md",
+    "SimpRead/Obsidian@simpread/random thoughts/人工智能和人不一样.md",
+    "SimpRead/Obsidian@simpread/random thoughts/人工智能和人类都靠某种规律运行.md",
+    "SimpRead/Obsidian@simpread/SimpRead/9- 论人工智能生成的内容在著作权法中的定性@annote.md",
+    "SimpRead/Obsidian@simpread/SimpRead/9- 论人工智能生成的内容在著作权法中的定性@annote 1.md",
+    "SimpRead/Obsidian@simpread/SimpRead/生成式人工智能的刑事风险与前瞻治理.md",
+    "SimpRead/Obsidian@simpread/SimpRead/7-生成式人工智能的刑事风险与前瞻治理@annote.md",
+    "SimpRead/Obsidian@simpread/WuCai/论数字作品的网络发行及法律应对-H88D9FE.md",
+    "SimpRead/Obsidian@simpread/WuCai/论NFT数字作品转售的著作权法规制——兼论数字时代发行权的扩张-H88D92K.md",
+    "SimpRead/Obsidian@simpread/WuCai/数字时代规避型侵犯著作权罪的司法适用-H88MHEE.md",
+    "SimpRead/Obsidian@simpread/WuCai/IPTV司法救济中的分歧及其化解之道-H88DFFM.md",
+    "SimpRead/Obsidian@simpread/WuCai/Moon landing apart, Indian science punches far below its weight --- 除了登月之外印度科学的实力远远不足-H88M75C.md",
+    "SimpRead/output/1-本地存储 + 线上获取：我的个人数据库建构路径.html",
+    "SimpRead/output/1-本地存储 + 线上获取：我的个人数据库建构路径@annote.html",
+    "SimpRead/output/2-我如何使用 Notion 管理简悦的一切.html",
+    "SimpRead/output/2-我如何使用 Notion 管理简悦的一切@annote.html",
+    "SimpRead/output/3-放弃纠结、拥抱妥协，重器轻用就是高效.html",
+    "SimpRead/output/3-放弃纠结、拥抱妥协，重器轻用就是高效@annote.html",
+    "SimpRead/output/4-看板、双向链接、知识图谱…… 简悦 2-2 想让你的稍后读不再不读.html",
+    "SimpRead/output/4-看板、双向链接、知识图谱…… 简悦 2-2 想让你的稍后读不再不读@annote.html",
+    "SimpRead/output/5-十九届六中全会决议中的 10 个明确.html",
+    "SimpRead/output/5-十九届六中全会决议中的 10 个明确@annote.html",
+    "SimpRead/output/6-生成式人工智能的刑事风险与前瞻治理.html",
+    "SimpRead/output/6-生成式人工智能的刑事风险与前瞻治理@annote.html",
+    "SimpRead/output/7-生成式人工智能的刑事风险与前瞻治理.html",
+    "SimpRead/output/7-生成式人工智能的刑事风险与前瞻治理@annote.html",
+    "SimpRead/output/8-全文阅读 --XML 全文阅读 -- 中国知网.html",
+    "SimpRead/output/8-全文阅读 --XML 全文阅读 -- 中国知网@annote.html",
+    "SimpRead/output/9- 论人工智能生成的内容在著作权法中的定性.html",
+    "SimpRead/output/9- 论人工智能生成的内容在著作权法中的定性@annote.html",
+    "SimpRead/simpread_config.json",
+    "WuCai/2024/01/（空）论网络环境下侵犯著作权罪中的“复制发行”.md",
+    "WuCai/2024/01/论数字作品的网络发行及法律应对.md",
+    "WuCai/2024/01/论NFT数字作品转售的著作权法规制——兼论数字时代发行权的扩张.md",
+    "WuCai/2024/01/人工智能时代网络游戏外挂的刑法规制.md",
+    "WuCai/2024/01/删.md",
+    "WuCai/2024/01/删2.md",
+    "WuCai/2024/01/数字时代规避型侵犯著作权罪的司法适用.md",
+    "WuCai/2024/01/英语.md",
+    "WuCai/2024/01/英语2.md",
+    "WuCai/2024/01/英语3.md",
+    "WuCai/2024/01/IPTV司法救济中的分歧及其化解之道.md",
+    "WuCai/“数据”可否纳入知识产权客体范畴-H87HDK7.md",
+    "WuCai/（这个写到法益那里）法秩序统一视域下侵犯著作权罪的罪质及展开-H87HC9F.md",
+    "WuCai/版权和 AI 生成作品：黎明的 Zarya 嘉理盖思数字 --- Copyright and AI-generated works Zarya of the Dawn  Garrigues Digital-H8D93H9.md",
+    "WuCai/出海欧美观察美国版权局拒绝AIGC《太空歌剧院》的著作权登记申请 - 哔哩哔哩-H8D99DM.md",
+    "WuCai/德克萨斯州野火：消防员与“怪物”大火作斗争居民努力应对失去的家园 美国有线电视新闻网（CNN） --- Texas wildfires Firefighters battling ‘monster’ blaze contend wit-H8DDAKM.md",
+    "WuCai/对“AI作品保护第一案”“Dreamwriter案”的再梳理——兼论该案结论构成双重标准 - 哔哩哔哩-H8D93F7.md",
+    "WuCai/功能等同原则视域下NFT数字藏品交易的法律定性——兼论虚拟财产纳入物权法调整的新路径-H87K953.md",
+    "WuCai/观点：世界上危险的地方变得更加危险  CNN --- Opinion The world’s dangerous place has only gotten more dangerous  CNN-H8DK2D7.md",
+    "WuCai/解构与重塑：“后字幕组时代”的中国影视翻译-H87MH92.md",
+    "WuCai/科技云报道：央行数字货币≠区块链背后的关键技术是什么_安进行-H87AH88.md",
+    "WuCai/黎明的扎里亚：人工智能如何改变版权保护的格局 - 哈佛法律与技术杂志 --- Zarya of the Dawn How AI is Changing the Landscape of Copyright Protection - Har-H8D93H5.md",
+    "WuCai/论数字作品的网络发行及法律应对.md",
+    "WuCai/论数字作品的网络发行及法律应对-H87K95A.md",
+    "WuCai/论网络环境下的发行权穷竭原则 穆宇-H87AHBD.md",
+    "WuCai/论网络环境下侵犯著作权罪中的“复制发行”-H8DDHB5.md",
+    "WuCai/论网络环境下侵犯著作权罪中的“复制发行”-H87K967.md",
+    "WuCai/论网络环境下侵犯著作权罪中的“复制发行”-H877FKK.md",
+    "WuCai/论NFT数字作品转售的著作权法规制——兼论数字时代发行权的扩张.md",
+    "WuCai/美国音乐版权语境下“Mechanical Right”与“Reproduction Right”含义的辨析_行为_钢琴_作品-H8D9DD9.md",
+    "WuCai/密西西比州西点军校：官员说俱乐部枪击事件造成一人死亡多达12人受伤 美国有线电视新闻网（CNN） --- West Point, Mississippi Shooting at club leaves one dead, up to-H8DDAKC.md",
+    "WuCai/侵权类“二次创作”短视频的刑法规制 ：理论逻辑与教义分析-H87D78K.md",
+    "WuCai/全文阅读--XML全文阅读--中国知网-H8D22M9.md",
+    "WuCai/全文阅读--XML全文阅读--中国知网-H8DC2CM.md",
+    "WuCai/全文阅读--XML全文阅读--中国知网-H8DH3K9.md",
+    "WuCai/全文阅读--XML全文阅读--中国知网-H8DKM52.md",
+    "WuCai/全文阅读--XML全文阅读--中国知网-H87BMEK.md",
+    "WuCai/人工智能生成物著作权保护问题研究——以ChatGPT为例-H8D97K6.md",
+    "WuCai/人工智能时代网络游戏外挂的刑法规制.md",
+    "WuCai/数字技术时代作品“过度保护”现象的治理逻辑-H8DH69H.md",
+    "WuCai/数字时代规避型侵犯著作权罪的司法适用.md",
+    "WuCai/提升效率就用老外非常流行的11款高亮chrome插件 - Chrome插件网-H87E335.md",
+    "WuCai/网络服务提供者侵犯著作权案件司法认定及证明路径-H87F8FM.md",
+    "WuCai/网络游戏外挂的“N宗罪”-H87H586.md",
+    "WuCai/新时期知识产权刑法保护路径优化-H8D3652.md",
+    "WuCai/伊朗代理人杀害美国士兵暴力不断升级 --- Violence spirals as Iran’s proxies kill American soldiers-H8795A2.md",
+    "WuCai/意识无法被计算吗_澎湃号·湃客_澎湃新闻-The Paper-H8D977H.md",
+    "WuCai/中国特色数字藏品的理论体系研究模式与未来研究趋势分析-H87K9C5.md",
+    "WuCai/最高检披露“人人影视字幕组”侵犯著作权一案办案细节_腾讯新闻-H8D22M5.md",
+    "WuCai/作品非同质化代币纠纷中的著作权法适用问题研究-H8DHAEH.md",
+    "WuCai/Analysis Determines Service Request-H87635C.md",
+    "WuCai/Apple Vision Pro 耳机开创个人技术新时代 --- Apple’s Vision Pro headset ushers in a new era of personal technology-H878H9E.md",
+    "WuCai/chat合集全都解锁会员版-远景论坛-微软极客社区-H872A55.md",
+    "WuCai/ChatGPT类人工智能生成物的刑法保护-H8D3698.md",
+    "WuCai/Daily Note 2024-03-02-H8D9B5D.md",
+    "WuCai/Daily Note 2024-03-04-H8DD5MH.md",
+    "WuCai/Daily Note 2024-03-05-H8D7885.md",
+    "WuCai/Daily Note 2024-03-06-H8D828E.md",
+    "WuCai/Daily Note 2024-03-07-H8DMCA6.md",
+    "WuCai/Daily Note 2024-03-08-H8DHM2C.md",
+    "WuCai/Daily Note 2024-03-09-H8DHAEB.md",
+    "WuCai/IPTV司法救济中的分歧及其化解之道.md",
+    "WuCai/Live updates Indias Ayodhya Ram Mandir temple inaugurated by Modi --- 印度阿约提亚拉姆曼庙由莫迪揭幕-H876DE8.md",
+    "WuCai/NFT数字作品著作权问题研究 - 中国知网-H87AHC6.md",
+    "_remotely-save-metadata-on-remote.json",
+    "8B70B836-5AB5-4225-8E68-14967989FA5A.png",
+    "0187D3F7-E50D-4FA1-9466-3B230E313735.png",
+    "3603C9E5-B474-4736-AB6A-DBA028F1D05A.png",
+    "冰雪奇缘BD国语配音中字1024高清-资源号(www.ziyuanhao.com)视频的笔记.esnote",
+    "给予罚金是否真正具有威慑力.md",
+    "链接地址.md",
+    "论网络环境下侵犯著作权罪中的“复制发行”-H87K967.md",
+    "日语.md",
+    "日语-LAPTOP-LMPDPN6T.md",
+    "英语.md",
+    "markdown语法.md",
+    "SR7@生成式人工智能的刑事风险与前瞻治理.md",
+    "Xena_s1e07（双语）.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/media/309e142a.png",
+    "lib/media/309dd7dd.png",
+    "lib/media/pasted-image-20240104120506.png",
+    "attachment/pasted-image-20240101131823.png",
+    "attachment/pasted-image-20240101150906.png",
+    "attachment/pasted-image-20240101133505.png"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "每日想法/2024-03-05.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 1783,
+      "exportedPath": "每日想法/2024-03-05.html",
+      "dependencies": [
+        "lib/media/309e142a.png",
+        "lib/media/309dd7dd.png"
+      ]
+    },
+    "每日想法/2024-03-06.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 1167,
+      "exportedPath": "每日想法/2024-03-06.html",
+      "dependencies": []
+    },
+    "每日想法/2024-03-09.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 50,
+      "exportedPath": "每日想法/2024-03-09.html",
+      "dependencies": []
+    },
+    "attachment/5-あおい【青い】.jpg": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 179113,
+      "exportedPath": "attachment/5-あおい【青い】.jpg",
+      "dependencies": []
+    },
+    "attachment/309DD7DD.png": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 3975,
+      "exportedPath": "attachment/309dd7dd.png",
+      "dependencies": []
+    },
+    "attachment/309E142A.png": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 3975,
+      "exportedPath": "attachment/309e142a.png",
+      "dependencies": []
+    },
+    "attachment/日语的【被动、使役、使役被动】&【授受关系（部分）】PT16.26S.webp": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 125358,
+      "exportedPath": "attachment/日语的【被动、使役、使役被动】&【授受关系（部分）】pt16.26s.webp",
+      "dependencies": []
+    },
+    "attachment/日语的【被动、使役、使役被动】&【授受关系（部分）】PT16.26S 1.webp": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 125358,
+      "exportedPath": "attachment/日语的【被动、使役、使役被动】&【授受关系（部分）】pt16.26s-1.webp",
+      "dependencies": []
+    },
+    "attachment/日语的【被动、使役、使役被动】&【授受关系（部分）】PT25.774S.webp": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 91594,
+      "exportedPath": "attachment/日语的【被动、使役、使役被动】&【授受关系（部分）】pt25.774s.webp",
+      "dependencies": []
+    },
+    "attachment/日语的【被动、使役、使役被动】&【授受关系（部分）】PT36M51.946S.webp": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 103260,
+      "exportedPath": "attachment/日语的【被动、使役、使役被动】&【授受关系（部分）】pt36m51.946s.webp",
+      "dependencies": []
+    },
+    "attachment/同步助手 - 文档中心 - 简悦 SimpRead - 如杂志般沉浸式阅读体验的扩展.html": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 120998,
+      "exportedPath": "attachment/同步助手-文档中心-简悦-simpread-如杂志般沉浸式阅读体验的扩展.html",
+      "dependencies": []
+    },
+    "attachment/新日本语教程中级2第8课PT2M7.008S.webp": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 117710,
+      "exportedPath": "attachment/新日本语教程中级2第8课pt2m7.008s.webp",
+      "dependencies": []
+    },
+    "attachment/新日本语教程中级2第8课PT28.188S.webp": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 16650,
+      "exportedPath": "attachment/新日本语教程中级2第8课pt28.188s.webp",
+      "dependencies": []
+    },
+    "attachment/中国知网.html": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 56229,
+      "exportedPath": "attachment/中国知网.html",
+      "dependencies": []
+    },
+    "attachment/Pasted image 20240101131638.png": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 716083,
+      "exportedPath": "attachment/pasted-image-20240101131638.png",
+      "dependencies": []
+    },
+    "attachment/Pasted image 20240101131823.png": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 85757,
+      "exportedPath": "attachment/pasted-image-20240101131823.png",
+      "dependencies": []
+    },
+    "attachment/Pasted image 20240101133505.png": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 6181,
+      "exportedPath": "attachment/pasted-image-20240101133505.png",
+      "dependencies": []
+    },
+    "attachment/Pasted image 20240101150906.png": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 144533,
+      "exportedPath": "attachment/pasted-image-20240101150906.png",
+      "dependencies": []
+    },
+    "attachment/Pasted image 20240104120506.png": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 106105,
+      "exportedPath": "attachment/pasted-image-20240104120506.png",
+      "dependencies": []
+    },
+    "attachment/Pasted image 20240131210611.png": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 4792,
+      "exportedPath": "attachment/pasted-image-20240131210611.png",
+      "dependencies": []
+    },
+    "attachment/Pasted image 20240131210628.png": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 5197,
+      "exportedPath": "attachment/pasted-image-20240131210628.png",
+      "dependencies": []
+    },
+    "notes/发行/发行是否一定需要有形载体.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 55,
+      "exportedPath": "notes/发行/发行是否一定需要有形载体.html",
+      "dependencies": []
+    },
+    "notes/发行/发行与信息网络传播的区别.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 0,
+      "exportedPath": "notes/发行/发行与信息网络传播的区别.html",
+      "dependencies": []
+    },
+    "notes/发行/索引.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 0,
+      "exportedPath": "notes/发行/索引.html",
+      "dependencies": []
+    },
+    "notes/文章汇总/simpread_config.json": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 22761,
+      "exportedPath": "notes/文章汇总/simpread_config.json",
+      "dependencies": []
+    },
+    "notes/random thoughts/嵌入式网页版权保护.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 421,
+      "exportedPath": "notes/random-thoughts/嵌入式网页版权保护.html",
+      "dependencies": []
+    },
+    "notes/random thoughts/知识产权是智力成果和才能的财产化.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 304,
+      "exportedPath": "notes/random-thoughts/知识产权是智力成果和才能的财产化.html",
+      "dependencies": []
+    },
+    "notes/random thoughts/中国人版权意识不强.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 123,
+      "exportedPath": "notes/random-thoughts/中国人版权意识不强.html",
+      "dependencies": []
+    },
+    "SimpRead/Obsidian@simpread/random thoughts/人工智能和人不一样.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 645,
+      "exportedPath": "simpread/obsidian@simpread/random-thoughts/人工智能和人不一样.html",
+      "dependencies": []
+    },
+    "SimpRead/Obsidian@simpread/random thoughts/人工智能和人类都靠某种规律运行.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 414,
+      "exportedPath": "simpread/obsidian@simpread/random-thoughts/人工智能和人类都靠某种规律运行.html",
+      "dependencies": []
+    },
+    "SimpRead/Obsidian@simpread/SimpRead/9- 论人工智能生成的内容在著作权法中的定性@annote.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 23737,
+      "exportedPath": "simpread/obsidian@simpread/simpread/9-论人工智能生成的内容在著作权法中的定性@annote.html",
+      "dependencies": []
+    },
+    "SimpRead/Obsidian@simpread/SimpRead/9- 论人工智能生成的内容在著作权法中的定性@annote 1.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 5038,
+      "exportedPath": "simpread/obsidian@simpread/simpread/9-论人工智能生成的内容在著作权法中的定性@annote-1.html",
+      "dependencies": []
+    },
+    "SimpRead/Obsidian@simpread/SimpRead/生成式人工智能的刑事风险与前瞻治理.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 14702,
+      "exportedPath": "simpread/obsidian@simpread/simpread/生成式人工智能的刑事风险与前瞻治理.html",
+      "dependencies": []
+    },
+    "SimpRead/Obsidian@simpread/SimpRead/7-生成式人工智能的刑事风险与前瞻治理@annote.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 6350,
+      "exportedPath": "simpread/obsidian@simpread/simpread/7-生成式人工智能的刑事风险与前瞻治理@annote.html",
+      "dependencies": []
+    },
+    "SimpRead/Obsidian@simpread/WuCai/论数字作品的网络发行及法律应对-H88D9FE.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 8792,
+      "exportedPath": "simpread/obsidian@simpread/wucai/论数字作品的网络发行及法律应对-h88d9fe.html",
+      "dependencies": []
+    },
+    "SimpRead/Obsidian@simpread/WuCai/论NFT数字作品转售的著作权法规制——兼论数字时代发行权的扩张-H88D92K.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 10495,
+      "exportedPath": "simpread/obsidian@simpread/wucai/论nft数字作品转售的著作权法规制——兼论数字时代发行权的扩张-h88d92k.html",
+      "dependencies": []
+    },
+    "SimpRead/Obsidian@simpread/WuCai/数字时代规避型侵犯著作权罪的司法适用-H88MHEE.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 18212,
+      "exportedPath": "simpread/obsidian@simpread/wucai/数字时代规避型侵犯著作权罪的司法适用-h88mhee.html",
+      "dependencies": []
+    },
+    "SimpRead/Obsidian@simpread/WuCai/IPTV司法救济中的分歧及其化解之道-H88DFFM.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 940,
+      "exportedPath": "simpread/obsidian@simpread/wucai/iptv司法救济中的分歧及其化解之道-h88dffm.html",
+      "dependencies": []
+    },
+    "SimpRead/Obsidian@simpread/WuCai/Moon landing apart, Indian science punches far below its weight --- 除了登月之外印度科学的实力远远不足-H88M75C.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 1904,
+      "exportedPath": "simpread/obsidian@simpread/wucai/moon-landing-apart,-indian-science-punches-far-below-its-weight-除了登月之外印度科学的实力远远不足-h88m75c.html",
+      "dependencies": []
+    },
+    "SimpRead/output/1-本地存储 + 线上获取：我的个人数据库建构路径.html": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 87793,
+      "exportedPath": "simpread/output/1-本地存储-+-线上获取：我的个人数据库建构路径.html",
+      "dependencies": []
+    },
+    "SimpRead/output/1-本地存储 + 线上获取：我的个人数据库建构路径@annote.html": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 55548,
+      "exportedPath": "simpread/output/1-本地存储-+-线上获取：我的个人数据库建构路径@annote.html",
+      "dependencies": []
+    },
+    "SimpRead/output/2-我如何使用 Notion 管理简悦的一切.html": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 70239,
+      "exportedPath": "simpread/output/2-我如何使用-notion-管理简悦的一切.html",
+      "dependencies": []
+    },
+    "SimpRead/output/2-我如何使用 Notion 管理简悦的一切@annote.html": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 54809,
+      "exportedPath": "simpread/output/2-我如何使用-notion-管理简悦的一切@annote.html",
+      "dependencies": []
+    },
+    "SimpRead/output/3-放弃纠结、拥抱妥协，重器轻用就是高效.html": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 87466,
+      "exportedPath": "simpread/output/3-放弃纠结、拥抱妥协，重器轻用就是高效.html",
+      "dependencies": []
+    },
+    "SimpRead/output/3-放弃纠结、拥抱妥协，重器轻用就是高效@annote.html": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 54849,
+      "exportedPath": "simpread/output/3-放弃纠结、拥抱妥协，重器轻用就是高效@annote.html",
+      "dependencies": []
+    },
+    "SimpRead/output/4-看板、双向链接、知识图谱…… 简悦 2-2 想让你的稍后读不再不读.html": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 87087,
+      "exportedPath": "simpread/output/4-看板、双向链接、知识图谱……-简悦-2-2-想让你的稍后读不再不读.html",
+      "dependencies": []
+    },
+    "SimpRead/output/4-看板、双向链接、知识图谱…… 简悦 2-2 想让你的稍后读不再不读@annote.html": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 56625,
+      "exportedPath": "simpread/output/4-看板、双向链接、知识图谱……-简悦-2-2-想让你的稍后读不再不读@annote.html",
+      "dependencies": []
+    },
+    "SimpRead/output/5-十九届六中全会决议中的 10 个明确.html": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 63801,
+      "exportedPath": "simpread/output/5-十九届六中全会决议中的-10-个明确.html",
+      "dependencies": []
+    },
+    "SimpRead/output/5-十九届六中全会决议中的 10 个明确@annote.html": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 53079,
+      "exportedPath": "simpread/output/5-十九届六中全会决议中的-10-个明确@annote.html",
+      "dependencies": []
+    },
+    "SimpRead/output/6-生成式人工智能的刑事风险与前瞻治理.html": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 121195,
+      "exportedPath": "simpread/output/6-生成式人工智能的刑事风险与前瞻治理.html",
+      "dependencies": []
+    },
+    "SimpRead/output/6-生成式人工智能的刑事风险与前瞻治理@annote.html": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 54289,
+      "exportedPath": "simpread/output/6-生成式人工智能的刑事风险与前瞻治理@annote.html",
+      "dependencies": []
+    },
+    "SimpRead/output/7-生成式人工智能的刑事风险与前瞻治理.html": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 122170,
+      "exportedPath": "simpread/output/7-生成式人工智能的刑事风险与前瞻治理.html",
+      "dependencies": []
+    },
+    "SimpRead/output/7-生成式人工智能的刑事风险与前瞻治理@annote.html": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 59021,
+      "exportedPath": "simpread/output/7-生成式人工智能的刑事风险与前瞻治理@annote.html",
+      "dependencies": []
+    },
+    "SimpRead/output/8-全文阅读 --XML 全文阅读 -- 中国知网.html": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 122876,
+      "exportedPath": "simpread/output/8-全文阅读-xml-全文阅读-中国知网.html",
+      "dependencies": []
+    },
+    "SimpRead/output/8-全文阅读 --XML 全文阅读 -- 中国知网@annote.html": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 63485,
+      "exportedPath": "simpread/output/8-全文阅读-xml-全文阅读-中国知网@annote.html",
+      "dependencies": []
+    },
+    "SimpRead/output/9- 论人工智能生成的内容在著作权法中的定性.html": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 115003,
+      "exportedPath": "simpread/output/9-论人工智能生成的内容在著作权法中的定性.html",
+      "dependencies": []
+    },
+    "SimpRead/output/9- 论人工智能生成的内容在著作权法中的定性@annote.html": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 57479,
+      "exportedPath": "simpread/output/9-论人工智能生成的内容在著作权法中的定性@annote.html",
+      "dependencies": []
+    },
+    "SimpRead/simpread_config.json": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 128841,
+      "exportedPath": "simpread/simpread_config.json",
+      "dependencies": []
+    },
+    "WuCai/“数据”可否纳入知识产权客体范畴-H87HDK7.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 5290,
+      "exportedPath": "wucai/“数据”可否纳入知识产权客体范畴-h87hdk7.html",
+      "dependencies": []
+    },
+    "WuCai/版权和 AI 生成作品：黎明的 Zarya 嘉理盖思数字 --- Copyright and AI-generated works Zarya of the Dawn  Garrigues Digital-H8D93H9.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 1451,
+      "exportedPath": "wucai/版权和-ai-生成作品：黎明的-zarya-嘉理盖思数字-copyright-and-ai-generated-works-zarya-of-the-dawn-garrigues-digital-h8d93h9.html",
+      "dependencies": []
+    },
+    "WuCai/出海欧美观察美国版权局拒绝AIGC《太空歌剧院》的著作权登记申请 - 哔哩哔哩-H8D99DM.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 1696,
+      "exportedPath": "wucai/出海欧美观察美国版权局拒绝aigc《太空歌剧院》的著作权登记申请-哔哩哔哩-h8d99dm.html",
+      "dependencies": []
+    },
+    "WuCai/德克萨斯州野火：消防员与“怪物”大火作斗争居民努力应对失去的家园 美国有线电视新闻网（CNN） --- Texas wildfires Firefighters battling ‘monster’ blaze contend wit-H8DDAKM.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 1064,
+      "exportedPath": "wucai/德克萨斯州野火：消防员与“怪物”大火作斗争居民努力应对失去的家园-美国有线电视新闻网（cnn）-texas-wildfires-firefighters-battling-‘monster’-blaze-contend-wit-h8ddakm.html",
+      "dependencies": []
+    },
+    "WuCai/对“AI作品保护第一案”“Dreamwriter案”的再梳理——兼论该案结论构成双重标准 - 哔哩哔哩-H8D93F7.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 2640,
+      "exportedPath": "wucai/对“ai作品保护第一案”“dreamwriter案”的再梳理——兼论该案结论构成双重标准-哔哩哔哩-h8d93f7.html",
+      "dependencies": []
+    },
+    "WuCai/功能等同原则视域下NFT数字藏品交易的法律定性——兼论虚拟财产纳入物权法调整的新路径-H87K953.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 4489,
+      "exportedPath": "wucai/功能等同原则视域下nft数字藏品交易的法律定性——兼论虚拟财产纳入物权法调整的新路径-h87k953.html",
+      "dependencies": []
+    },
+    "WuCai/观点：世界上危险的地方变得更加危险  CNN --- Opinion The world’s dangerous place has only gotten more dangerous  CNN-H8DK2D7.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 780,
+      "exportedPath": "wucai/观点：世界上危险的地方变得更加危险-cnn-opinion-the-world’s-dangerous-place-has-only-gotten-more-dangerous-cnn-h8dk2d7.html",
+      "dependencies": []
+    },
+    "WuCai/解构与重塑：“后字幕组时代”的中国影视翻译-H87MH92.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 6782,
+      "exportedPath": "wucai/解构与重塑：“后字幕组时代”的中国影视翻译-h87mh92.html",
+      "dependencies": []
+    },
+    "WuCai/科技云报道：央行数字货币≠区块链背后的关键技术是什么_安进行-H87AH88.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 1094,
+      "exportedPath": "wucai/科技云报道：央行数字货币≠区块链背后的关键技术是什么_安进行-h87ah88.html",
+      "dependencies": []
+    },
+    "WuCai/黎明的扎里亚：人工智能如何改变版权保护的格局 - 哈佛法律与技术杂志 --- Zarya of the Dawn How AI is Changing the Landscape of Copyright Protection - Har-H8D93H5.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 901,
+      "exportedPath": "wucai/黎明的扎里亚：人工智能如何改变版权保护的格局-哈佛法律与技术杂志-zarya-of-the-dawn-how-ai-is-changing-the-landscape-of-copyright-protection-har-h8d93h5.html",
+      "dependencies": []
+    },
+    "WuCai/论数字作品的网络发行及法律应对.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 3856,
+      "exportedPath": "wucai/论数字作品的网络发行及法律应对.html",
+      "dependencies": []
+    },
+    "WuCai/论数字作品的网络发行及法律应对-H87K95A.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 832,
+      "exportedPath": "wucai/论数字作品的网络发行及法律应对-h87k95a.html",
+      "dependencies": []
+    },
+    "WuCai/论网络环境下的发行权穷竭原则 穆宇-H87AHBD.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 2659,
+      "exportedPath": "wucai/论网络环境下的发行权穷竭原则-穆宇-h87ahbd.html",
+      "dependencies": []
+    },
+    "WuCai/论网络环境下侵犯著作权罪中的“复制发行”-H8DDHB5.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 2244,
+      "exportedPath": "wucai/论网络环境下侵犯著作权罪中的“复制发行”-h8ddhb5.html",
+      "dependencies": []
+    },
+    "WuCai/论网络环境下侵犯著作权罪中的“复制发行”-H87K967.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 5758,
+      "exportedPath": "wucai/论网络环境下侵犯著作权罪中的“复制发行”-h87k967.html",
+      "dependencies": []
+    },
+    "WuCai/论网络环境下侵犯著作权罪中的“复制发行”-H877FKK.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 7388,
+      "exportedPath": "wucai/论网络环境下侵犯著作权罪中的“复制发行”-h877fkk.html",
+      "dependencies": []
+    },
+    "WuCai/论NFT数字作品转售的著作权法规制——兼论数字时代发行权的扩张.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 10677,
+      "exportedPath": "wucai/论nft数字作品转售的著作权法规制——兼论数字时代发行权的扩张.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240104120506.png"
+      ]
+    },
+    "WuCai/美国音乐版权语境下“Mechanical Right”与“Reproduction Right”含义的辨析_行为_钢琴_作品-H8D9DD9.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 5880,
+      "exportedPath": "wucai/美国音乐版权语境下“mechanical-right”与“reproduction-right”含义的辨析_行为_钢琴_作品-h8d9dd9.html",
+      "dependencies": []
+    },
+    "WuCai/密西西比州西点军校：官员说俱乐部枪击事件造成一人死亡多达12人受伤 美国有线电视新闻网（CNN） --- West Point, Mississippi Shooting at club leaves one dead, up to-H8DDAKC.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 829,
+      "exportedPath": "wucai/密西西比州西点军校：官员说俱乐部枪击事件造成一人死亡多达12人受伤-美国有线电视新闻网（cnn）-west-point,-mississippi-shooting-at-club-leaves-one-dead,-up-to-h8ddakc.html",
+      "dependencies": []
+    },
+    "WuCai/侵权类“二次创作”短视频的刑法规制 ：理论逻辑与教义分析-H87D78K.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 5797,
+      "exportedPath": "wucai/侵权类“二次创作”短视频的刑法规制-：理论逻辑与教义分析-h87d78k.html",
+      "dependencies": []
+    },
+    "WuCai/全文阅读--XML全文阅读--中国知网-H8D22M9.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 1153,
+      "exportedPath": "wucai/全文阅读-xml全文阅读-中国知网-h8d22m9.html",
+      "dependencies": []
+    },
+    "WuCai/全文阅读--XML全文阅读--中国知网-H8DC2CM.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 4396,
+      "exportedPath": "wucai/全文阅读-xml全文阅读-中国知网-h8dc2cm.html",
+      "dependencies": []
+    },
+    "WuCai/全文阅读--XML全文阅读--中国知网-H8DH3K9.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 1005,
+      "exportedPath": "wucai/全文阅读-xml全文阅读-中国知网-h8dh3k9.html",
+      "dependencies": []
+    },
+    "WuCai/全文阅读--XML全文阅读--中国知网-H8DKM52.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 886,
+      "exportedPath": "wucai/全文阅读-xml全文阅读-中国知网-h8dkm52.html",
+      "dependencies": []
+    },
+    "WuCai/全文阅读--XML全文阅读--中国知网-H87BMEK.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 2059,
+      "exportedPath": "wucai/全文阅读-xml全文阅读-中国知网-h87bmek.html",
+      "dependencies": []
+    },
+    "WuCai/人工智能生成物著作权保护问题研究——以ChatGPT为例-H8D97K6.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 4716,
+      "exportedPath": "wucai/人工智能生成物著作权保护问题研究——以chatgpt为例-h8d97k6.html",
+      "dependencies": []
+    },
+    "WuCai/人工智能时代网络游戏外挂的刑法规制.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 1421,
+      "exportedPath": "wucai/人工智能时代网络游戏外挂的刑法规制.html",
+      "dependencies": []
+    },
+    "WuCai/数字技术时代作品“过度保护”现象的治理逻辑-H8DH69H.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 3646,
+      "exportedPath": "wucai/数字技术时代作品“过度保护”现象的治理逻辑-h8dh69h.html",
+      "dependencies": []
+    },
+    "WuCai/数字时代规避型侵犯著作权罪的司法适用.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 18237,
+      "exportedPath": "wucai/数字时代规避型侵犯著作权罪的司法适用.html",
+      "dependencies": []
+    },
+    "WuCai/提升效率就用老外非常流行的11款高亮chrome插件 - Chrome插件网-H87E335.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 581,
+      "exportedPath": "wucai/提升效率就用老外非常流行的11款高亮chrome插件-chrome插件网-h87e335.html",
+      "dependencies": []
+    },
+    "WuCai/网络服务提供者侵犯著作权案件司法认定及证明路径-H87F8FM.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 2922,
+      "exportedPath": "wucai/网络服务提供者侵犯著作权案件司法认定及证明路径-h87f8fm.html",
+      "dependencies": []
+    },
+    "WuCai/网络游戏外挂的“N宗罪”-H87H586.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 1177,
+      "exportedPath": "wucai/网络游戏外挂的“n宗罪”-h87h586.html",
+      "dependencies": []
+    },
+    "WuCai/新时期知识产权刑法保护路径优化-H8D3652.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 4795,
+      "exportedPath": "wucai/新时期知识产权刑法保护路径优化-h8d3652.html",
+      "dependencies": []
+    },
+    "WuCai/伊朗代理人杀害美国士兵暴力不断升级 --- Violence spirals as Iran’s proxies kill American soldiers-H8795A2.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 1558,
+      "exportedPath": "wucai/伊朗代理人杀害美国士兵暴力不断升级-violence-spirals-as-iran’s-proxies-kill-american-soldiers-h8795a2.html",
+      "dependencies": []
+    },
+    "WuCai/意识无法被计算吗_澎湃号·湃客_澎湃新闻-The Paper-H8D977H.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 1018,
+      "exportedPath": "wucai/意识无法被计算吗_澎湃号·湃客_澎湃新闻-the-paper-h8d977h.html",
+      "dependencies": []
+    },
+    "WuCai/中国特色数字藏品的理论体系研究模式与未来研究趋势分析-H87K9C5.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 898,
+      "exportedPath": "wucai/中国特色数字藏品的理论体系研究模式与未来研究趋势分析-h87k9c5.html",
+      "dependencies": []
+    },
+    "WuCai/最高检披露“人人影视字幕组”侵犯著作权一案办案细节_腾讯新闻-H8D22M5.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 664,
+      "exportedPath": "wucai/最高检披露“人人影视字幕组”侵犯著作权一案办案细节_腾讯新闻-h8d22m5.html",
+      "dependencies": []
+    },
+    "WuCai/作品非同质化代币纠纷中的著作权法适用问题研究-H8DHAEH.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 1356,
+      "exportedPath": "wucai/作品非同质化代币纠纷中的著作权法适用问题研究-h8dhaeh.html",
+      "dependencies": []
+    },
+    "WuCai/Analysis Determines Service Request-H87635C.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 2486,
+      "exportedPath": "wucai/analysis-determines-service-request-h87635c.html",
+      "dependencies": []
+    },
+    "WuCai/Apple Vision Pro 耳机开创个人技术新时代 --- Apple’s Vision Pro headset ushers in a new era of personal technology-H878H9E.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 3936,
+      "exportedPath": "wucai/apple-vision-pro-耳机开创个人技术新时代-apple’s-vision-pro-headset-ushers-in-a-new-era-of-personal-technology-h878h9e.html",
+      "dependencies": []
+    },
+    "WuCai/chat合集全都解锁会员版-远景论坛-微软极客社区-H872A55.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 537,
+      "exportedPath": "wucai/chat合集全都解锁会员版-远景论坛-微软极客社区-h872a55.html",
+      "dependencies": []
+    },
+    "WuCai/Daily Note 2024-03-02-H8D9B5D.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 3325,
+      "exportedPath": "wucai/daily-note-2024-03-02-h8d9b5d.html",
+      "dependencies": []
+    },
+    "WuCai/Daily Note 2024-03-04-H8DD5MH.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 5353,
+      "exportedPath": "wucai/daily-note-2024-03-04-h8dd5mh.html",
+      "dependencies": []
+    },
+    "WuCai/Daily Note 2024-03-05-H8D7885.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 4660,
+      "exportedPath": "wucai/daily-note-2024-03-05-h8d7885.html",
+      "dependencies": []
+    },
+    "WuCai/Daily Note 2024-03-06-H8D828E.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 2888,
+      "exportedPath": "wucai/daily-note-2024-03-06-h8d828e.html",
+      "dependencies": []
+    },
+    "WuCai/Daily Note 2024-03-07-H8DMCA6.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 285,
+      "exportedPath": "wucai/daily-note-2024-03-07-h8dmca6.html",
+      "dependencies": []
+    },
+    "WuCai/Daily Note 2024-03-08-H8DHM2C.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 1509,
+      "exportedPath": "wucai/daily-note-2024-03-08-h8dhm2c.html",
+      "dependencies": []
+    },
+    "WuCai/Daily Note 2024-03-09-H8DHAEB.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 786,
+      "exportedPath": "wucai/daily-note-2024-03-09-h8dhaeb.html",
+      "dependencies": []
+    },
+    "WuCai/IPTV司法救济中的分歧及其化解之道.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 1074,
+      "exportedPath": "wucai/iptv司法救济中的分歧及其化解之道.html",
+      "dependencies": []
+    },
+    "WuCai/Live updates Indias Ayodhya Ram Mandir temple inaugurated by Modi --- 印度阿约提亚拉姆曼庙由莫迪揭幕-H876DE8.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 871,
+      "exportedPath": "wucai/live-updates-indias-ayodhya-ram-mandir-temple-inaugurated-by-modi-印度阿约提亚拉姆曼庙由莫迪揭幕-h876de8.html",
+      "dependencies": []
+    },
+    "WuCai/NFT数字作品著作权问题研究 - 中国知网-H87AHC6.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 598,
+      "exportedPath": "wucai/nft数字作品著作权问题研究-中国知网-h87ahc6.html",
+      "dependencies": []
+    },
+    "_remotely-save-metadata-on-remote.json": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 13152,
+      "exportedPath": "_remotely-save-metadata-on-remote.json",
+      "dependencies": []
+    },
+    "冰雪奇缘BD国语配音中字1024高清-资源号(www.ziyuanhao.com)视频的笔记.esnote": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 1074705,
+      "exportedPath": "冰雪奇缘bd国语配音中字1024高清-资源号(www.ziyuanhao.com)视频的笔记.esnote",
+      "dependencies": []
+    },
+    "给予罚金是否真正具有威慑力.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 1191,
+      "exportedPath": "给予罚金是否真正具有威慑力.html",
+      "dependencies": []
+    },
+    "链接地址.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 0,
+      "exportedPath": "链接地址.html",
+      "dependencies": []
+    },
+    "论网络环境下侵犯著作权罪中的“复制发行”-H87K967.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 5758,
+      "exportedPath": "论网络环境下侵犯著作权罪中的“复制发行”-h87k967.html",
+      "dependencies": []
+    },
+    "日语.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 40852,
+      "exportedPath": "日语.html",
+      "dependencies": []
+    },
+    "日语-LAPTOP-LMPDPN6T.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 40685,
+      "exportedPath": "日语-laptop-lmpdpn6t.html",
+      "dependencies": []
+    },
+    "英语.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 35797,
+      "exportedPath": "英语.html",
+      "dependencies": []
+    },
+    "markdown语法.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 1641,
+      "exportedPath": "markdown语法.html",
+      "dependencies": [
+        "attachment/pasted-image-20240101131823.png",
+        "attachment/pasted-image-20240101150906.png",
+        "attachment/pasted-image-20240101133505.png"
+      ]
+    },
+    "SR7@生成式人工智能的刑事风险与前瞻治理.md": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 0,
+      "exportedPath": "sr7@生成式人工智能的刑事风险与前瞻治理.html",
+      "dependencies": []
+    },
+    "lib/media/309e142a.png": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 3975,
+      "exportedPath": "lib/media/309e142a.png",
+      "dependencies": []
+    },
+    "lib/media/309dd7dd.png": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 3975,
+      "exportedPath": "lib/media/309dd7dd.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240104120506.png": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 106105,
+      "exportedPath": "lib/media/pasted-image-20240104120506.png",
+      "dependencies": []
+    },
+    "attachment/pasted-image-20240101131823.png": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 85757,
+      "exportedPath": "attachment/pasted-image-20240101131823.png",
+      "dependencies": []
+    },
+    "attachment/pasted-image-20240101150906.png": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 144533,
+      "exportedPath": "attachment/pasted-image-20240101150906.png",
+      "dependencies": []
+    },
+    "attachment/pasted-image-20240101133505.png": {
+      "modifiedTime": 1710905708443,
+      "sourceSize": 6181,
+      "exportedPath": "attachment/pasted-image-20240101133505.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 61313,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 8388,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 157356,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 253,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "WuCai/2024/01/（空）论网络环境下侵犯著作权罪中的“复制发行”.md": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 736,
+      "exportedPath": "wucai/2024/01/（空）论网络环境下侵犯著作权罪中的“复制发行”.html",
+      "dependencies": []
+    },
+    "WuCai/2024/01/论数字作品的网络发行及法律应对.md": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 8657,
+      "exportedPath": "wucai/2024/01/论数字作品的网络发行及法律应对.html",
+      "dependencies": []
+    },
+    "WuCai/2024/01/论NFT数字作品转售的著作权法规制——兼论数字时代发行权的扩张.md": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 10397,
+      "exportedPath": "wucai/2024/01/论nft数字作品转售的著作权法规制——兼论数字时代发行权的扩张.html",
+      "dependencies": []
+    },
+    "WuCai/2024/01/人工智能时代网络游戏外挂的刑法规制.md": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 3166,
+      "exportedPath": "wucai/2024/01/人工智能时代网络游戏外挂的刑法规制.html",
+      "dependencies": []
+    },
+    "WuCai/2024/01/删.md": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 581,
+      "exportedPath": "wucai/2024/01/删.html",
+      "dependencies": []
+    },
+    "WuCai/2024/01/删2.md": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 446,
+      "exportedPath": "wucai/2024/01/删2.html",
+      "dependencies": []
+    },
+    "WuCai/2024/01/数字时代规避型侵犯著作权罪的司法适用.md": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 18246,
+      "exportedPath": "wucai/2024/01/数字时代规避型侵犯著作权罪的司法适用.html",
+      "dependencies": []
+    },
+    "WuCai/2024/01/英语.md": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 1904,
+      "exportedPath": "wucai/2024/01/英语.html",
+      "dependencies": []
+    },
+    "WuCai/2024/01/英语2.md": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 1018,
+      "exportedPath": "wucai/2024/01/英语2.html",
+      "dependencies": []
+    },
+    "WuCai/2024/01/英语3.md": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 871,
+      "exportedPath": "wucai/2024/01/英语3.html",
+      "dependencies": []
+    },
+    "WuCai/2024/01/IPTV司法救济中的分歧及其化解之道.md": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 940,
+      "exportedPath": "wucai/2024/01/iptv司法救济中的分歧及其化解之道.html",
+      "dependencies": []
+    },
+    "WuCai/（这个写到法益那里）法秩序统一视域下侵犯著作权罪的罪质及展开-H87HC9F.md": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 3320,
+      "exportedPath": "wucai/（这个写到法益那里）法秩序统一视域下侵犯著作权罪的罪质及展开-h87hc9f.html",
+      "dependencies": []
+    },
+    "WuCai/ChatGPT类人工智能生成物的刑法保护-H8D3698.md": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 47125,
+      "exportedPath": "wucai/chatgpt类人工智能生成物的刑法保护-h8d3698.html",
+      "dependencies": []
+    },
+    "8B70B836-5AB5-4225-8E68-14967989FA5A.png": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 70810,
+      "exportedPath": "8b70b836-5ab5-4225-8e68-14967989fa5a.png",
+      "dependencies": []
+    },
+    "0187D3F7-E50D-4FA1-9466-3B230E313735.png": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 115795,
+      "exportedPath": "0187d3f7-e50d-4fa1-9466-3b230e313735.png",
+      "dependencies": []
+    },
+    "3603C9E5-B474-4736-AB6A-DBA028F1D05A.png": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 164007,
+      "exportedPath": "3603c9e5-b474-4736-ab6a-dba028f1d05a.png",
+      "dependencies": []
+    },
+    "Xena_s1e07（双语）.md": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 4489,
+      "exportedPath": "xena_s1e07（双语）.html",
+      "dependencies": [
+        "8b70b836-5ab5-4225-8e68-14967989fa5a.png",
+        "8b70b836-5ab5-4225-8e68-14967989fa5a.png",
+        "3603c9e5-b474-4736-ab6a-dba028f1d05a.png",
+        "3603c9e5-b474-4736-ab6a-dba028f1d05a.png",
+        "0187d3f7-e50d-4fa1-9466-3b230e313735.png",
+        "0187d3f7-e50d-4fa1-9466-3b230e313735.png"
+      ]
+    },
+    "8b70b836-5ab5-4225-8e68-14967989fa5a.png": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 70810,
+      "exportedPath": "8b70b836-5ab5-4225-8e68-14967989fa5a.png",
+      "dependencies": []
+    },
+    "3603c9e5-b474-4736-ab6a-dba028f1d05a.png": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 164007,
+      "exportedPath": "3603c9e5-b474-4736-ab6a-dba028f1d05a.png",
+      "dependencies": []
+    },
+    "0187d3f7-e50d-4fa1-9466-3b230e313735.png": {
+      "modifiedTime": 1710905760027,
+      "sourceSize": 115795,
+      "exportedPath": "0187d3f7-e50d-4fa1-9466-3b230e313735.png",
+      "dependencies": []
+    }
+  }
+}
